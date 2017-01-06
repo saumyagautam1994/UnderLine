@@ -1,0 +1,16 @@
+PODS:
+  - UnderLine (0.1.0)
+
+DEPENDENCIES:
+  - UnderLine (from `../`)
+
+EXTERNAL SOURCES:
+  UnderLine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UnderLine: 7f48931cf3e216fd3ce948869221af8a88b088d3
+
+PODFILE CHECKSUM: f066c5edc13a64691bc5732c22e4c51c6c20b865
+
+COCOAPODS: 1.2.0.beta.3

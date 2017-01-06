@@ -1,0 +1,6 @@
+framework module UnderLine {
+  umbrella header "UnderLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
